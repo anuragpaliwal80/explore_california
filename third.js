@@ -26,6 +26,7 @@ require([
 
 function (cdot, $, Backbone, Activity, Index, Common, Project, Environment, Action, Login, ProjectEvents, Metering) {
 	//Any initialization code goes here
+	//Updating the file
 
 	/*
 	new Index.Router();
